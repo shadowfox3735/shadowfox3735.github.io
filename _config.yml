@@ -1,11 +1,11 @@
 # Site settings
-author: shadowfox3735
-title: 
+author: Norman Pan
+title: Norman.com
 header-img: img/home-bg.png
 email: normanpan180@gmail.com
-copyright_name: shadowfox3735
+copyright_name: Norman Pan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  coding adventures
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  shadowfox3735
